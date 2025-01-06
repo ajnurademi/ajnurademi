@@ -46,8 +46,5 @@
   <img width="12" />
 </div>
 
-## AJ's Stats
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=ajnurademi&locale=en&mode=daily&theme=react&hide_border=true&border_radius=15&order=3" height="150" alt="streak graph"  />
-</div>
+
 
