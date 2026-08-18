@@ -2,7 +2,7 @@
 
 ###
 
->Hi there! I'm a student at IMS at Kanti Brühl (KSB) in St. Gallen with a deep passion for both frontend and backend development. I love turning creative ideas into reality by blending technical skills with innovative design. My goal is to create functional and visually engaging applications that push the boundaries of what's possible.<br><br>I'm constantly working to expand and refine my tech stack, exploring new tools and technologies to enhance my projects. <br><br>Explore my projects and contributions on my [GitHub profile](https://github.com/ajnurademi) and get a broader view of my work and portfolio on my website: [ajnurademi.com](http://ajnurademi.com).<br><br>Feel free to connect or reach out 📨
+>I'm constantly working to expand and refine my tech stack, exploring new tools and technologies to enhance my projects. <br><br>Feel free to connect or reach out 📨
 
 ###
 
